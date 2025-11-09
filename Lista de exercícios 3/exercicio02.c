@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //Constantes
-const int N_BOIS = 3;
+const int N_BOIS = 200;
 
 //Variáveis
 int idade, piquete, i;

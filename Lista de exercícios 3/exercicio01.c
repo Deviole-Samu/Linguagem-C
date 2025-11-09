@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //Constantes
-const int N_PESSOAS = 3;
+const int N_PESSOAS = 1000;
 
 //Variáveis de entrada
 int idade;
