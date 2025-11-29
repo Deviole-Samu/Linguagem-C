@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <float.h>
 
 const int
     N_FUN = 1500,
@@ -17,7 +18,7 @@ float
     soma_sal_f = 0,
     soma_sal_m = 0,
     maior_sal = 0,
-    menor_sal = 1000000,
+    menor_sal = FLT_MAX,
     soma_sal_dep_1 = 0,
     media_sal_dep_1 = 0,
     soma_sal_dep_2 = 0,
